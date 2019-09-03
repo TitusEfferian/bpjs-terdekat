@@ -24,3 +24,4 @@ yarn-debug.log*
 yarn-error.log*
 api-key.js
 yarn.lock
+now.json
