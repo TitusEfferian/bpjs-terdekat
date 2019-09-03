@@ -3,12 +3,12 @@
     "name": "bpjs-terdekat",
     "env": {
         "GENERATE_SOURCEMAP": "false",
-        "API_KEY": "@API_KEY"
+        "API_KEY": "@api_key"
     },
     "build": {
         "env": {
             "GENERATE_SOURCEMAP": "false",
-            "API_KEY": "@API_KEY"
+            "API_KEY": "@api_key"
         }
     }
 }
