@@ -4,5 +4,11 @@
     "env": {
         "GENERATE_SOURCEMAP": "false",
         "API_KEY": "@API_KEY"
+    },
+    "build": {
+        "env": {
+            "GENERATE_SOURCEMAP": "false",
+            "API_KEY": "@API_KEY"
+        }
     }
 }
