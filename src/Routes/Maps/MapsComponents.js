@@ -2,7 +2,7 @@ import React from 'react';
 import { withScriptjs, GoogleMap, Marker, withGoogleMap, InfoWindow } from "react-google-maps"
 import { compose, withProps } from "recompose";
 import { Typography } from 'antd';
-import { API_KEY_LOCAL } from '../../../api-key';
+import { API_KEY_LOCAL } from '../../api-key';
 
 const { Text, Title } = Typography;
 const API_KEY = process.env.API_KEY || API_KEY_LOCAL

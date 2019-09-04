@@ -1,14 +1,16 @@
 {
-    "version":2,
+    "version": 2,
     "name": "bpjs-terdekat",
     "env": {
         "GENERATE_SOURCEMAP": "false",
-        "API_KEY": "@api_key"
+        "API_KEY": "@api_key",
+        "google_verification": "@google_verification"
     },
     "build": {
         "env": {
             "GENERATE_SOURCEMAP": "false",
-            "API_KEY": "@api_key"
+            "API_KEY": "@api_key",
+            "google_verification": "@google_verification"
         }
     }
 }
